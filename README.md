@@ -7,4 +7,4 @@ make sure you have node >v20 installed
 
 `npm i`
 
-`npm run start` to view
+`npm run dev` to view
